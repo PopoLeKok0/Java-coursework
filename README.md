@@ -1,4 +1,6 @@
-![Java Logo](java_logo.png)
+<div align="center">
+  <img src="java_logo.png" alt="Java Logo" width="200">
+</div>
 
 # Java-coursework 🚀
 
